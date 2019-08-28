@@ -1,7 +1,7 @@
-##Project: Logs Analysis
+Project: Logs Analysis
 ========================
 
-#Project Details:
+Project Details:
 -----------------
 This project requires to create a reporting tool, querying database having 
 real world like data. Output of the queries is depicted at terminal. A 
@@ -13,7 +13,7 @@ of the below questions:
 - Who are the most popular article authors of all time?    -> pop_art_auth()
 - On which days did more than 1% of requests lead to errors?   -> err_logs()
 
-#Setup Runtime Environment
+Setup Runtime Environment
 --------------------------    
 It is recommended to set up the environment first like the one is used to 
 develop this program. 
@@ -31,7 +31,7 @@ version respective to your OS.
 Download VM Configuration using URL 
 "https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5acfbfa3_fsnd-virtual-machine/fsnd-virtual-machine.zip"    
 
-#How to run the program:
+How to run the program:
 ------------------------
 Download the data using URL 
 "https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip". 
