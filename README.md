@@ -9,8 +9,8 @@ Python program is been created for this project, which connects to database
 using psycopg2 library. There is a corresponding method with respect to each 
 of the below questions:
 
-- What are the most popular three articles of all time?    -> most_pop_art()
-- Who are the most popular article authors of all time?    -> pop_art_auth()
+- What are the most popular three articles of all time?        -> most_pop_art()
+- Who are the most popular article authors of all time?        -> pop_art_auth()
 - On which days did more than 1% of requests lead to errors?   -> err_logs()
 
 Setup Runtime Environment
