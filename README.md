@@ -42,6 +42,4 @@ system. Run below commands in order to execute the reporting tool:
     2: "vagrant ssh"    - to login to virtual machine
     3: "cd /vagrant"    - to access the shared folder
     4: "psql -d news -f newsdata.sql" - to load the data
-    5: "psql -d news"   - to connect to the database. 
-    6: Then exit from database
-    7: "python logs.py" - to run the reporting tool  
+    5: "python logs.py" - to run the reporting tool  
