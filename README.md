@@ -19,22 +19,19 @@ It is recommended to set up the environment first like the one is used to
 develop this program. 
 
 > Install Vagrant: 
-Download Vagrant software using URL "https://www.vagrantup.com/downloads.html"
+Download Vagrant software using [URL](https://www.vagrantup.com/downloads.html)
 , then install the version respective to your OS.
 
 > Install VirtualBox:
-Download VirtualBox using URL 
-"https://www.virtualbox.org/wiki/Download_Old_Builds_5_1", then install the 
+Download VirtualBox using [URL](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1), then install the 
 version respective to your OS.
 
 > Download VM Configuration:
-Download VM Configuration using URL 
-"https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5acfbfa3_fsnd-virtual-machine/fsnd-virtual-machine.zip"    
+Download VM Configuration using [URL](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5acfbfa3_fsnd-virtual-machine/fsnd-virtual-machine.zip)    
 
 How to run the program:
 ------------------------
-Download the data using URL 
-"https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip". 
+Download the data using [URL](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip). 
 Open the git bash from the path, where Virtual Machine is set up in the local 
 system. Run below commands in order to execute the reporting tool:
 
